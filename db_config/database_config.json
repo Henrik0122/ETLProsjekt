@@ -1,0 +1,7 @@
+{
+    "host": "summer22data.postgres.database.azure.com",
+    "user": "student_marius",
+    "password": "marius",
+    "port": 5432,
+    "db_name": "daily_marius"
+}

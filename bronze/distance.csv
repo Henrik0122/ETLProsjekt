@@ -1,0 +1,2 @@
+destination_addresses,origin_addresses,rows,status
+"['Rhodes, Greece']","['Stavanger, Norway']","[{'elements': [{'distance': {'text': '4,233 km', 'value': 4232706}, 'duration': {'text': '2 days 1 hour', 'value': 175485}, 'status': 'OK'}]}]",OK
